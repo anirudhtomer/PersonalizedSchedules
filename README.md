@@ -1,5 +1,5 @@
 # Personalized Schedules for Burdensome Surveillance Tests
-Code and (synthetic) data accompanying manuscript titled 'Personalized Schedules for Burdensome Surveillance Tests'
+Code and (synthetic) data accompanying manuscript titled 'Personalized Schedules for Shared Decision Making of Burdensome Surveillance Tests'
 
 # Author Contributions Checklist Form
 ## Data
